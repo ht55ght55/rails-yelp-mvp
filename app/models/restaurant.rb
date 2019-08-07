@@ -1,2 +1,3 @@
-class Restaurant < ApplicationRecor
+class Restaurant < ApplicationRecord
+
 end
